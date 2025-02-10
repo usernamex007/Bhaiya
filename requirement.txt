@@ -1,4 +1,5 @@
-asyncio
 pyrogram
 telethon
+tgcrypto
 requests
+python-dotenv
